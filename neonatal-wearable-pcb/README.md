@@ -33,6 +33,7 @@ Part of transcranial neonatal imaging research at SMILE Lab, University at Buffa
 - SolidWorks for mechanical design
 - Oscilloscope for debugging
 
+![PCB Photo](./NeoSense_render.png)
 ---
 
 **Project Date**: February 2025 - Present  
