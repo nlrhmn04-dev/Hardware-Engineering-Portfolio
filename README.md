@@ -1,4 +1,4 @@
-# Biomedical Hardware Engineering Portfolio
+# Hardware Engineering Portfolio
 
 **Naail Rahman** | [LinkedIn](https://linkedin.com/in/naail-rahman) | nlrhmn04@gmail.com
 
