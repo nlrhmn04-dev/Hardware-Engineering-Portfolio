@@ -35,8 +35,11 @@ Part of transcranial neonatal imaging research at SMILE Lab, University at Buffa
 
 ![PCB Photo](./NeoSense_render.png)
 
+## Rigid PCB Prototype
+
 ![PCB Photo](./NS_pcb.png)
 
+Prior to diving straight into a flex PCB, we made an inital rigid PCB prototype as a proof of concept, as seen in the above image. This helped us realize we could reduce the size by going from an ESP32 to a STM32 or nrf52480.
 ---
 
 **Project Date**: February 2025 - Present  
