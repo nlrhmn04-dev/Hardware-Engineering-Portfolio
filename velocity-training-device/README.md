@@ -3,7 +3,7 @@
 Real-time barbell velocity measurement system using IMU sensor fusion.
 
 ## Overview
-Weight-lifting device using ESP32 and MPU6050 IMU to measure barbell velocity, validated through camera analysis.
+Weight-lifting device to measure velocity loss on free-weight, pulley, and machine exercises, using ESP32 and LSM6DSO IMU.
 
 ## System Architecture
 
@@ -11,7 +11,7 @@ Weight-lifting device using ESP32 and MPU6050 IMU to measure barbell velocity, v
 
 ## Specifications
 - **Accuracy**: <8% error in velocity loss measurements
-- **Sensor**: MPU6050 IMU (accelerometer + gyroscope)
+- **Sensor**: LSM6DSO IMU (accelerometer + gyroscope)
 - **Microcontroller**: ESP32
 - **Analysis**: Python with FFT
 
@@ -28,12 +28,9 @@ Weight-lifting device using ESP32 and MPU6050 IMU to measure barbell velocity, v
 
 ## Tools Used
 - ESP32 microcontroller
-- MPU6050 IMU
+- LSM6DSO IMU
 - Python (NumPy, Matplotlib, SciPy)
 - SolidWorks for enclosure design
 - 3D printing
 
----
 
-**Project Date**: 2024  
-**Status**: Completed
