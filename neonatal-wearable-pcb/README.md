@@ -34,6 +34,9 @@ Part of transcranial neonatal imaging research at SMILE Lab, University at Buffa
 - Oscilloscope for debugging
 
 ![PCB Photo](./NeoSense_render.png)
+
+![PCB Photo](./NS_pcb.png)
+
 ---
 
 **Project Date**: February 2025 - Present  
