@@ -3,7 +3,11 @@
 High-precision 4-layer mixed-signal PCB for electromyography (EMG) signal acquisition.
 
 ## Overview
-Our Senior Design project combines B-mode Ultrasound Imaging with EMG to assess post-ACL reconstruction rehabilitation. By analyzing muscle thickness and activation, we can give clinicians another metric to use to gauge and motivate progress. The EMG Analog Front-End was designed in KiCad, using a signle channel ADS1299 and ESP32. 
+Our Senior Design project combines B-mode Ultrasound Imaging with EMG to assess post-ACL reconstruction rehabilitation. By analyzing muscle thickness and activation, we can give clinicians another metric to use to quantify and motivate progress. This repo will primarily focus on the EMG AFE functional block.
+
+## System Architecture
+
+![System Architecture](System_Architecture.png)
 
 ## Desired Specifications
 - **CMRR**: 100 dB
